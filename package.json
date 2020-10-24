@@ -39,7 +39,7 @@
     "concurrently": "^5.3.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "jest": "^26.6.0",
+    "jest": "^26.6.1",
     "jest-axe": "^4.0.0",
     "parcel-bundler": "^1.12.4",
     "prettier": "^2.1.2",
